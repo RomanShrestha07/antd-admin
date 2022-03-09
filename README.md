@@ -12,23 +12,6 @@ The Admin Panel contains:
 - `Users Page`: With demos on data searching, filtering and sorting using APIs.
 - `About Page`: With a demo on typography using Ant Design.
 
-## Sample Screenshots
-
-#### Login Page
-![](C:\Users\Roman Shrestha\Documents\React\antd-admin\antd-admin\src\assets\readme images\AntD Login.png)
-
-#### Dashboard Page
-![](C:\Users\Roman Shrestha\Documents\React\antd-admin\antd-admin\src\assets\readme images\AntD Dashboard.png)
-
-#### Products Page
-![](C:\Users\Roman Shrestha\Documents\React\antd-admin\antd-admin\src\assets\readme images\AntD Products.png)
-
-#### Users Page
-![](C:\Users\Roman Shrestha\Documents\React\antd-admin\antd-admin\src\assets\readme images\AntD Users.png)
-
-#### About Page
-![](C:\Users\Roman Shrestha\Documents\React\antd-admin\antd-admin\src\assets\readme images\AntD About.png)
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
